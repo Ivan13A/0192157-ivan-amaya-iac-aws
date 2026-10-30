@@ -71,7 +71,7 @@ Resources:
             <div class="card">
               <span class="tag">CLOUD COMPUTING · UFPSO</span>
               <h1>${InstanceDescription} 👏</h1>
-              <h2>Hola desde CloudFormation con GitHub 🚀</h2>
+              <h2>Hola desde CloudFormation con GitHub </h2>
               <p><strong>Ivan Antonio Amaya Bermúdez</strong> · Código 0192157<br>
                  Ingeniería de Sistemas · Universidad Francisco de Paula Santander Ocaña</p>
               <p>Esta página fue publicada sin entrar al servidor: el repositorio en GitHub
