@@ -22,7 +22,7 @@ Resources:
   # Para recrear la instancia (y que User Data vuelva a correr) cambia este nombre,
   # por ejemplo a MyInstanceClaseV2, y actualizalo tambien en los Outputs.
 
-  MyInstanceClaseV2::
+  MyInstanceClaseV2:
     Type: AWS::EC2::Instance
     Properties:
       ImageId: !Ref LatestAmiId
